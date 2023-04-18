@@ -1,1 +1,1 @@
-# thincrs_git_github
+# Python course 1
